@@ -6,7 +6,7 @@ public class minMax {
         for(int i = 0; i < nums.length; i++) {
             if (nums[i] < minNum) {
                 minNum = nums[i];
-            } 
+            }
         }
 
         return minNum; 
